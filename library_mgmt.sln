@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "library_mgmt", ".", "{D2C215F8-2EC6-4409-9A05-D7F9F20BC8CC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/library_mgmt"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\library_mgmt\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\library_mgmt\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/library_mgmt"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\library_mgmt\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\library_mgmt\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49482"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C215F8-2EC6-4409-9A05-D7F9F20BC8CC}.Debug|.NET.ActiveCfg = Debug|.NET
+		{D2C215F8-2EC6-4409-9A05-D7F9F20BC8CC}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
